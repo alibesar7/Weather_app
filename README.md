@@ -1,3 +1,6 @@
+# Creating the README.md file with the provided content
+
+readme_content = """
 # 🌦 Weather App
 
 A Flutter application to check the current weather conditions for any city in the world. The app displays temperature, weather conditions, and dynamic themes based on the weather.
@@ -24,4 +27,10 @@ A Flutter application to check the current weather conditions for any city in th
 
 ## 🛠 How to Run the App
 1. Clone the repository.
+2. Install the dependencies.
+3. Run the app.
 
+## 🗂 API Configuration
+The app uses [WeatherAPI](https://www.weatherapi.com) for fetching weather data. Make sure to replace the `apiKey` in `WeatherServices` with your own API key:
+```dart
+final String apiKey = "YOUR_API_KEY";

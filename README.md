@@ -1,16 +1,18 @@
-# wethear
+# 🌦 Weather App
 
-A new Flutter project.
+A Flutter application to check the current weather conditions for any city in the world. The app displays temperature, weather conditions, and dynamic themes based on the weather.
 
-## Getting Started
+## 📱 Features
+- 🌍 Search for any city and get real-time weather updates.
+- 🎨 Dynamic theme and gradient backgrounds based on the temperature.
+- 🌡 Displays current, minimum, and maximum temperatures.
+- 🕒 Shows the last updated time.
+- 🚀 Easy navigation with a search view.
 
-This project is a starting point for a Flutter application.
+## 🔧 Technologies Used
+- **Flutter**: For building the user interface.
+- **Flutter Bloc**: For state management.
+- **Dio**: For making HTTP requests.
+- **Weather API**: To fetch weather data.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🏗️ Project Structure

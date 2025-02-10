@@ -16,3 +16,12 @@ A Flutter application to check the current weather conditions for any city in th
 - **Weather API**: To fetch weather data.
 
 ## 🏗️ Project Structure
+
+## 📸 Screenshots
+| Home Screen | Search City | Weather Display |
+|-------------|-------------|----------------|
+| (Add Screenshot) | (Add Screenshot) | (Add Screenshot) |
+
+## 🛠 How to Run the App
+1. Clone the repository.
+

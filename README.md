@@ -1,6 +1,4 @@
-# Creating the README.md file with the provided content
-
-readme_content = """
+ 
 # 🌦 Weather App
 
 A Flutter application to check the current weather conditions for any city in the world. The app displays temperature, weather conditions, and dynamic themes based on the weather.
